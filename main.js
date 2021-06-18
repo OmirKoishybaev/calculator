@@ -7,7 +7,7 @@ function getInput() {
     if (aktiv == "0") {
         
         if (input != "C" && input != "DEL") {
-            console.log("Asd")
+            
             $(".res").text("");
             $(".res").text(input);
             
